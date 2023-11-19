@@ -1,5 +1,10 @@
-# repository name
-![ss](https://example.com/file.png)
+<h1 align="center">
+    Repository Title
+</h1>
+<p align="center">
+What it does
+</p>
+<img align="center" src="https://example.com/file.png">
 
 # how to use
 ####  1. First step.
