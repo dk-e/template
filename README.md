@@ -1,9 +1,9 @@
 <h1 align="center">
     Repository Title
 </h1>
-<p align="center">
+<h3 align="center">
 What it does
-</p>
+</h3>
 <img align="center" src="https://example.com/file.png">
 
 # how to use
